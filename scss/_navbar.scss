@@ -7,7 +7,7 @@
   .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
-    color: #00B4DB;
+    color: $primary;
     @include sans-serif-font;
     &:focus,
     &:hover {

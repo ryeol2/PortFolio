@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #00B4DB;
+  color: #f05f40;
 }
 
 h1,
@@ -106,7 +106,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #00B4DB;
+  color: #F05F40;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -124,7 +124,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #F05F40 !important;
+  color: #00B4DB !important;
   background-color: transparent;
 }
 
@@ -304,8 +304,8 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #00B4DB;
+  border-color: #00B4DB;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {

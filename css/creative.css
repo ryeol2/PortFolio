@@ -17,11 +17,11 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #000000;
+  border-color: #00B4DB;
 }
 
 hr.light {
-  border-color: #000000;
+  border-color: #00B4DB;
 }
 
 a {

@@ -5,7 +5,7 @@ $(document).ready(function(){
   });
   $('#logojava').mouseout(function(){
     $(this).css({"filter": "brightness(100%)"});
-      $('#java').hide().fadeOut(1000);
+      $('#java').fadeOut(1000);
   });
 
   $('#logospring').mouseover(function(){
@@ -14,7 +14,7 @@ $(document).ready(function(){
   });
   $('#logospring').mouseout(function(){
     $(this).css({"filter": "brightness(100%)"});
-      $('#spring').hide().fadeOut(1000);
+      $('#spring').fadeOut(1000);
   });
 
   $('#logojs').mouseover(function(){
@@ -23,7 +23,7 @@ $(document).ready(function(){
   });
   $('#logojs').mouseout(function(){
     $(this).css({"filter": "brightness(100%)"});
-      $('#js').hide().fadeOut(1000);
+      $('#js').fadeOut(1000);
   });
 
   $('#logosql').mouseover(function(){
@@ -32,7 +32,7 @@ $(document).ready(function(){
   });
   $('#logosql').mouseout(function(){
     $(this).css({"filter": "brightness(100%)"});
-      $('#sql').hide().fadeOut(1000);
+      $('#sql').fadeOut(1000);
   });
 
 
